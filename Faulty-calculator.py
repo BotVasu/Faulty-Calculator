@@ -1,5 +1,3 @@
-#Exercise - 2
-
 operator  = input("Enter the operator you are using:")
 
 num1 = int(input("Enter number 1:"))
